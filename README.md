@@ -1,3 +1,4 @@
+---
 ## 🚀 Studying AI in Cybersecurity 🚀
 
 ## Introduction
@@ -28,3 +29,23 @@ Whenever possible, I’ll include **ethical technical demos** to reinforce what 
 ## Goal
 
 This is part of my journey to grow into a cybersecurity role where I can **analyze emerging threats and contribute to building stronger defenses**.
+
+## 📁 Resources that Sparked this idea 📁
+
+These are the resources I'm actively using to understand how AI has impacted cybersecurity so far and some short takeaways I've gotten from them. 
+
+### [OWASP Top 10 for LLMS and Gen AI ](https://genai.owasp.org/llm-top-10/)
+
+Focuses on the most critical security rissk specific to AI systems, including prompt injection, data poisoning, and model theft. 
+
+**Why it matters:**  
+A great starting point in understanding that AI introduces entirely new attack surfaces beyond traditional applications.
+
+### [IBM: AI Attacks ](https://www.youtube.com/watch?v=0tHb6U2604g)
+
+Breaks down how AI is expected to influence both attack and defense strategies.
+
+**Key takeaway:**  
+AI is accelerating the speed of attacks, which means detection and response strategies also need to evolve.
+
+---
